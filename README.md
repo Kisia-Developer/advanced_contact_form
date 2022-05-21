@@ -1,6 +1,6 @@
 # advanced_contact_form
 
-A new Flutter project.
+企業のアプリ開発で使うような、WebView・UniversalLink・SpeechToTextなどを使用した問い合わせフォームの応用プロジェクトです。
 
 ## Getting Started
 
